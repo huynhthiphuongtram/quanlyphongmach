@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+div.container {
+    display: contents;
+}
+form.form-signin {
+    padding: 50px;
+    border: solid;
+}
