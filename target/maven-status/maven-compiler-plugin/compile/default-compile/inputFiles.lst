@@ -2,7 +2,6 @@ C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\service\im
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\config\HibernateConfig.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\pojo\Chitiettoathuoc.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\pojo\LichKham.java
-C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\config\SpringSecurityConfig.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\repository\UserRepository.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\service\UserService.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\pojo\Hoadon.java
@@ -13,6 +12,5 @@ C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\config\Web
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\pojo\Thuoc.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\controller\UserController.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\repository\impl\UserRepositoryImpl.java
-C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\config\SecurityWebApplicationInitializer.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\pojo\User.java
 C:\Users\Kyoya\OneDrive\Desktop\quanlyphongmach\src\main\java\com\kyo\config\TilesConfig.java

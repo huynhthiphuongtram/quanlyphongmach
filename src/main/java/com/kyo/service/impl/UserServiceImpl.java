@@ -16,7 +16,6 @@ import org.springframework.transaction.annotation.Transactional;
  *
  * @author Kyoya
  */
-@Service("userDetailsService")
 public class UserServiceImpl implements UserService {
     @Autowired
     private UserRepository userRepository;
